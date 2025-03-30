@@ -1,5 +1,5 @@
 package ec.edu.ups.poo.principal;
-
+tyhgfy
 import ec.edu.ups.poo.clases.Familiar;
 import ec.edu.ups.poo.clases.Persona;
 
