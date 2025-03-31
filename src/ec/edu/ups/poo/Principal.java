@@ -1,5 +1,5 @@
 package ec.edu.ups.poo;
-
+//ave maría
 import ec.edu.ups.poo.clases.Persona;
 public class Principal {
     public static void main(String [] args){
