@@ -1,7 +1,7 @@
 package ec.edu.ups.poo;
 //ave maría
-//nuevo branch xd
-//ya no se
+//nuevo branch
+//ya no le se
 import ec.edu.ups.poo.clases.Persona;
 public class Principal {
     public static void main(String [] args){
